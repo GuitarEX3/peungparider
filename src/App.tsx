@@ -40,7 +40,7 @@ const Navbar = () => (
         <a href="#investors" className="hover:text-brand-teal transition-colors">Investors</a>
       </div>
       <a
-        href="https://bit.ly/4vUvkU5"
+        href="https://charming-quokka-ea2f5b.netlify.app/"
         target="_blank"
         rel="noopener noreferrer"
         className="bg-brand-teal text-white px-3 py-2 md:px-5 md:py-2.5 rounded-full font-semibold text-xs md:text-sm hover:bg-brand-teal-dark transition-all shadow-lg shadow-brand-teal/20 whitespace-nowrap"
@@ -93,7 +93,7 @@ const Hero = () => (
 
         <div className="flex flex-col sm:flex-row gap-4 mb-12">
           <a
-            href="https://bit.ly/4vUvkU5"
+            href="https://charming-quokka-ea2f5b.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-brand-teal text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-brand-teal-light transition-all flex items-center justify-center gap-2 group shadow-xl shadow-brand-teal/40"
@@ -102,7 +102,7 @@ const Hero = () => (
             <ChevronRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
           </a>
           <a
-            href="https://bit.ly/4vUvkU5"
+            href="https://charming-quokka-ea2f5b.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white/10 backdrop-blur-md text-white border border-white/30 px-8 py-4 rounded-xl font-bold text-lg hover:bg-white/20 transition-all text-center"
@@ -447,7 +447,7 @@ const EarlyRiderSection = () => (
           <h3 className="text-3xl font-bold mb-6">จองสิทธิ์ตอนนี้</h3>
           <p className="text-slate-500 mb-8">เราจะติดต่อท่านโดยเร็วที่สุดเมื่อเปิดรับในพื้นที่ของท่าน</p>
           <a
-            href="https://bit.ly/4vUvkU5"
+            href="https://charming-quokka-ea2f5b.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full bg-brand-teal text-white py-4 rounded-2xl font-bold text-lg hover:bg-brand-teal-dark transition-all block text-center"
@@ -474,7 +474,7 @@ const FinalCTA = () => (
         เริ่มสร้างรายได้ และเป็นส่วนหนึ่งของสังคมที่ช่วยเหลือกัน
       </p>
       <a
-        href="https://bit.ly/4vUvkU5"
+        href="https://charming-quokka-ea2f5b.netlify.app/"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block bg-brand-teal text-white px-8 md:px-12 py-4 md:py-6 rounded-2xl font-bold text-lg md:text-2xl hover:bg-brand-teal-light transition-all shadow-2xl shadow-brand-teal/40 scale-100 hover:scale-105 active:scale-95 duration-200"
@@ -500,7 +500,7 @@ const Footer = () => (
         <div>
           <h4 className="font-bold mb-6 text-slate-800 uppercase tracking-widest text-xs">Platform</h4>
           <ul className="space-y-4 text-slate-500 text-sm">
-            <li><a href="https://bit.ly/4vUvkU5" target="_blank" rel="noopener noreferrer" className="hover:text-brand-teal">Become a Rider</a></li>
+            <li><a href="https://charming-quokka-ea2f5b.netlify.app/" target="_blank" rel="noopener noreferrer" className="hover:text-brand-teal">Become a Rider</a></li>
             <li><a href="#" className="hover:text-brand-teal">Partner Shops</a></li>
             <li><a href="#" className="hover:text-brand-teal">Our Vision</a></li>
           </ul>
